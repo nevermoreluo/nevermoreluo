@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Senken Group Co., Ltd
+- 🌱 I’m currently learning Rust
 
 <!--
 **nevermoreluo/nevermoreluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
