@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - [监听随机端口](https://nevermoreluo.github.io/2022/01/12/%E7%9B%91%E5%90%AC%E9%9A%8F%E6%9C%BA%E7%AB%AF%E5%8F%A3/)
 <!-- BLOG-POST-LIST:END -->
 
+[![Nevermoreluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevermoreluo&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevermoreluo&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true) 
+
+
