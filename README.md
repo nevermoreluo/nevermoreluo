@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevermoreluo&layout=compact&theme=shadow_blue&count_private=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevermoreluo&layout=compact&theme=shadow_blue&count_private=true&hide=HTML,CSS,Makefile)   
 
 [![Nevermoreluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevermoreluo&show_icons=true&rank_icon=github&theme=shadow_blue&include_all_commits=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)  
 
