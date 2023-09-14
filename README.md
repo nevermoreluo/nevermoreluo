@@ -28,10 +28,19 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
+
+[![GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevermoreluo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Top Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nevermoreluo&theme=github&exclude=HTML)
+![Top Langs Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nevermoreluo&theme=github&exclude=HTML)
+
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevermoreluo&theme=github)
+![GitHub Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevermoreluo&theme=github&utcOffset=+8)
+
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevermoreluo&layout=compact&theme=shadow_blue&count_private=true&hide=HTML,CSS,Makefile)   
 
 [![Nevermoreluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevermoreluo&show_icons=true&rank_icon=github&theme=shadow_blue&include_all_commits=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)  
+-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nevermoreluo&theme=shadow-blue)](https://git.io/streak-stats)
-
-
