@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Senken Group Co., Ltd
 - 🌱 I’m currently learning Rust
-- ⚡ Fun fact: Not being able to do financial accounting is not a good for software developement as a game backend developer.
+- ⚡ Fun fact: Not being able to do financial accounting is not good for software developement as a game backend developer.
 <!--
 **nevermoreluo/nevermoreluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
