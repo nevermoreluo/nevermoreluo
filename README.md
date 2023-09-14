@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 [![Nevermoreluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevermoreluo&show_icons=true&rank_icon=github&theme=shadow_blue&include_all_commits=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)  
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nevermoreluo&theme=shadow-blue)](https://git.io/streak-stats)
 
 
