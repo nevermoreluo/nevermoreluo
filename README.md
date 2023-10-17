@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysql主从同步配置](https://nevermoreluo.github.io/2023/10/17/Mysql%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE/)
 - [常用服务端口占用](https://nevermoreluo.github.io/2023/10/08/%E5%B8%B8%E7%94%A8%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8/)
 - [Lua raise error: C stack overflow](https://nevermoreluo.github.io/2023/09/15/Lua-raise-error-C-stack-overflow/)
 - [Intel VTune Profiler 性能分析](https://nevermoreluo.github.io/2023/09/14/Intel-VTune-Profiler-%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/)
 - [口算二进制相互转换十六进制 以及拓展](https://nevermoreluo.github.io/2023/09/13/%E5%8F%A3%E7%AE%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/)
-- [Server certificate verification failed](https://nevermoreluo.github.io/2023/09/12/Server-certificate-verification-failed/)
 <!-- BLOG-POST-LIST:END -->
