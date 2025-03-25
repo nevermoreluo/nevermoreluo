@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.12.9官方文档 教程部分学习要求](https://nevermoreluo.github.io/2025/03/24/python_doc_12/)
 - [个人vps获取免费的https证书的几个方法](https://nevermoreluo.github.io/2024/11/28/vps%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E7%9A%84https%E8%AF%81%E4%B9%A6/)
 - [Centos7升级内核](https://nevermoreluo.github.io/2023/11/16/centos7%E5%8D%87%E7%BA%A7%E5%86%85%E6%A0%B8/)
 - [hexo添加音乐播放](https://nevermoreluo.github.io/2023/11/16/hexo%E6%B7%BB%E5%8A%A0%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE/)
 - [Mysql主从同步配置](https://nevermoreluo.github.io/2023/10/17/Mysql%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE/)
-- [常用服务端口占用](https://nevermoreluo.github.io/2023/10/08/%E5%B8%B8%E7%94%A8%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8/)
 <!-- BLOG-POST-LIST:END -->
